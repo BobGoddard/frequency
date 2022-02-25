@@ -1,0 +1,6 @@
+<Settings>
+        <Database name='host'>Example_Host</Database>
+        <Database name='db'>Example_Database</Database>
+        <Database name='user'>Example_User</Database>
+        <Database name='pass'>Example_Password</Database>
+</Settings>
